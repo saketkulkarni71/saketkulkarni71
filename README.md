@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saketkulkarni71
+- 👋 Hi, I’m Saket
 - 👀 I’m interested in Football, Data analytics and Video analyis 
 - 🌱 I’m currently doing my Msc in Data Analytics in Nationa college or Ireland, Dublin.  
 - 💞️ I’m looking to collaborate on Large datasets and build machine learning models. Also want to start learning how to use AI and ML to analyse sports videos.
