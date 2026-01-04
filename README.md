@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saket
-- 👀 I’m interested in Football, Data analytics. 
-- 🌱 Msc in Data Analytics in National college or Ireland, Dublin.  
+- 👀 I’m interested in Football, Data and Software. 
+- 🌱 Msc in Data Analytics in National college of Ireland, Dublin.  
 - 📫 How to reach me: Linkdin: www.linkedin.com/in/saketakulkarni
 
 <!---
